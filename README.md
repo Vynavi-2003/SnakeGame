@@ -20,16 +20,16 @@ After training, the agent’s performance is visualized using Seaborn:
 
 How It Works:
 1. State Representation
-    The agent receives a simplified representation of the game state (direction, food position, danger).
+   The agent receives a simplified representation of the game state (direction, food position, danger).
 2. Action Space
-    The action is one of: straight, right turn, or left turn.
+   The action is one of: straight, right turn, or left turn.
 3. Rewards
-    +10 for eating food
-    -10 for crashing
-    Small reward for each step to encourage exploration
+   +10 for eating food
+   -10 for crashing
+   Small reward for each step to encourage exploration
 4. Neural Network
-    3 Dense layers
-    Trained using experience replay and epsilon-greedy policy
+   3 Dense layers
+   Trained using experience replay and epsilon-greedy policy
 
 Example Performance:
 After a few minutes of training, the agent typically:
