@@ -1,4 +1,5 @@
 🐍 Snake Game AI using Deep Q-Learning
+
 This project implements an AI agent that learns to play the classic Snake game using Deep Reinforcement Learning (DQN). The agent improves its strategy by maximizing the game score (reward) through experience — no hard-coded rules!
 
 Features:
