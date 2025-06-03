@@ -35,15 +35,3 @@ After a few minutes of training, the agent typically:
   Learns to avoid crashing
   Strategically chases food
   Scores consistently above 30–50 points
-
-
-
-
-
-
-
-
-License
-MIT License — See LICENSE file for details.
-Acknowledgments
-Inspired by classic reinforcement learning examples and open-source contributions by the AI and game dev community.
